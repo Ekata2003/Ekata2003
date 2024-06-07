@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ekata Chaudhari</h1>
 <h3 align="center">A passionate Java developer with AI Enthusiast from India</h3>
-<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif"/>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0%2APXf5ge7QCN9Ga_CL.gif" height="200" width="40"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekata2003&label=Profile%20views&color=0e75b6&style=flat" alt="ekata2003" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ekata2003" alt="ekata2003" /></a> </p>-->
